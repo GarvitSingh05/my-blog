@@ -1,0 +1,10 @@
+main:
+  - item: Home
+    url: "https://garvitsingh.com/"
+  - item: All Posts
+    url: posts/
+  - item: About Me
+    url: about/
+  - item: Contact
+    url: contact/
+  

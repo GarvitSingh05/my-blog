@@ -603,6 +603,15 @@ aside h3 {
   width: 100%;
   transition: height 0.4s cubic-bezier(0.52, 0.16, 0.24, 1);
   z-index: 999;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  cursor: pointer;
+  padding: 25px;
 }
 
 .nav_bar {
@@ -680,29 +689,12 @@ aside h3 {
   padding-bottom: 0 !important;
 }
 
-.nav-close {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 100%;
-  cursor: pointer;
-  padding: 25px;
-}
-
-.nav-close::after {
-  content: "←";
+.nav::after {
+  content: "→";
   font-size: 22px;
   color: var(--text);
-  opacity: 0.6;
+  opacity: 0.8;
   transition: transform 0.2s ease, opacity 0.2s ease;
-}
-
-.nav-close:hover::after {
-  opacity: 1;
-  transform: translateX(4px);
 }
 
 .nav-drop {

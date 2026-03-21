@@ -68,7 +68,7 @@
 
   &-close
     display: flex
-    justify-content: flex-start
+    justify-content: flex-end
     align-items: center
     position: absolute
     top: 0
@@ -76,20 +76,17 @@
     width: 100%
     cursor: pointer
     padding: 25px
-    &:after, &:before
-      content: ''
-      width: 18px
-      border-radius: 50%
-      padding: 1.5px
-      background: var(--text)
-      opacity: 0.7
-      position: relative
 
-    &:before
-      transform: rotate(20deg) translateX(1.5px)
+    &::after
+      content: "←"   // ✅ fallback arrow (always works)
+      font-size: 22px
+      color: var(--text)
+      opacity: 0.6
+      transition: transform 0.2s ease, opacity 0.2s ease    
 
-    &:after
-      transform: rotate(-20deg) translateX(-1.5px)
+  &-close:hover::after
+    opacity: 1
+    transform: translateX(4px)
 
   &-drop
     cursor: pointer

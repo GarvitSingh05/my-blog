@@ -693,10 +693,10 @@ aside h3 {
 }
 
 .nav-close::after {
-  content: "←";
+  content: "→";
   font-size: 22px;
   color: var(--text);
-  opacity: 0.6;
+  opacity: 0.8;
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
 

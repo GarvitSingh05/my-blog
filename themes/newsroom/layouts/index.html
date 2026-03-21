@@ -23,9 +23,4 @@
     {{- if and (eq $index (add $size -1)) (gt $size 1) }}</div>{{ end }}
   {{- end }}
 </div>
-<a href='{{ absURL (printf "%s/%s" $blog_dir "") }}' class=post_nav><span class=post_next>{{ T "archive_text" }}
-    <svg class="icon icon_scale">
-      <use href="#double-arrow"></use>
-    </svg>
-  </span></a>
 {{ end }}
