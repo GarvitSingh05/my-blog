@@ -547,9 +547,10 @@ aside h3 {
 }
 
 .color_mode {
-  display: flex;
+  height: 1.5rem;
+  display: grid;
+  grid-template-columns: 1fr 3rem;
   align-items: center;
-  gap: 28px;
   margin: 2rem 1.5rem 0;
 }
 
@@ -745,6 +746,11 @@ aside h3 {
 
 .nav_item {
   text-transform: capitalize;
+}
+
+*mode {
+  justify-content: flex-start !important;
+  gap: 8px;
 }
 
 .post {

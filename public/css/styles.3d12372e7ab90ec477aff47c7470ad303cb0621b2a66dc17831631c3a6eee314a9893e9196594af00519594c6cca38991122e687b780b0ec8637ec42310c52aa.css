@@ -549,7 +549,7 @@ aside h3 {
 .color_mode {
   display: flex;
   align-items: center;
-  gap: 28px;
+  gap: 8px;
   margin: 2rem 1.5rem 0;
 }
 

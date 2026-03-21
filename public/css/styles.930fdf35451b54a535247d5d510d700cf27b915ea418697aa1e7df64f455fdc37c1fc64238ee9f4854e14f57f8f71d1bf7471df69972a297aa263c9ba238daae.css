@@ -546,11 +546,14 @@ aside h3 {
   opacity: 1;
 }
 
+.color {
+  align-items: center;
+  gap: 8px;
+  margin: 2rem 1.5rem 0;
+}
+
 .color_mode {
   display: flex;
-  align-items: center;
-  gap: 28px;
-  margin: 2rem 1.5rem 0;
 }
 
 .color_choice {
