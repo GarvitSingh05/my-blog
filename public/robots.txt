@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://garvitsingh.com/sitemap.xml

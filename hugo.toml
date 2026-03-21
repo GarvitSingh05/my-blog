@@ -1,0 +1,9 @@
+baseURL = "https://garvitsingh.com/"
+languageCode = "en-us"
+title = "Minor Project Static CDN Blog"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[minify]
+  minifyOutput = true
