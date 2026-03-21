@@ -2,7 +2,7 @@ baseURL = "https://garvitsingh.com/"
 languageCode = "en-us"
 title = "Garvit Singh Blogs"
 theme = "newsroom"
-
+defaultMode = "light"
 enableRobotsTXT = true
 
 [minify]
