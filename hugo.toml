@@ -1,6 +1,6 @@
 baseURL = "https://garvitsingh.com/"
 languageCode = "en-us"
-title = "Minor Project Static CDN Blog"
+title = "Garvit Singh Blogs"
 theme = "PaperMod"
 
 enableRobotsTXT = true
