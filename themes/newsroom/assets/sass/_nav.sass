@@ -72,16 +72,16 @@
     align-items: center
     position: absolute
     top: 0
-    right: 0
+    right: 70%
     width: 100%
     cursor: pointer
     padding: 25px
 
     &::after
-      content: "🔙"   // ✅ fallback arrow (always works)
-      font-size: 22px
+      content: "→"   // ✅ fallback arrow (always works)
+      font-size: 28px
       color: var(--text)
-      opacity: 0.6
+      opacity: 0.75
       transition: transform 0.2s ease, opacity 0.2s ease    
 
   &-close:hover::after

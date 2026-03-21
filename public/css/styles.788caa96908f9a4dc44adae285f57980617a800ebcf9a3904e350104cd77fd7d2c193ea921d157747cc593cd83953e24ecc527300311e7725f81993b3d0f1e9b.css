@@ -686,7 +686,7 @@ aside h3 {
   align-items: center;
   position: absolute;
   top: 0;
-  right: 70%;
+  right: 69%;
   width: 100%;
   cursor: pointer;
   padding: 25px;
@@ -694,9 +694,9 @@ aside h3 {
 
 .nav-close::after {
   content: "→";
-  font-size: 28px;
+  font-size: 25px;
   color: var(--text);
-  opacity: 0.75;
+  opacity: 0.6;
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
