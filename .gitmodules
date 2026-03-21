@@ -4,3 +4,6 @@
 [submodule "hugo-theme-stack"]
 	path = hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack.git
+[submodule "newsroom"]
+	path = newsroom
+	url = https://github.com/onweru/newsroom.git

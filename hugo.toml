@@ -1,7 +1,7 @@
 baseURL = "https://garvitsingh.com/"
 languageCode = "en-us"
 title = "Garvit Singh Blogs"
-theme = "PaperMod"
+theme = "newsroom"
 
 enableRobotsTXT = true
 
