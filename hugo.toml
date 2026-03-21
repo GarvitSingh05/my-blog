@@ -4,8 +4,9 @@ title = "Garvit Singh Blogs"
 theme = "newsroom"
 defaultMode = "light"
 enableRobotsTXT = true
-[params]
-favicon = "static/favicon.ico"
 
 [minify]
   minifyOutput = true
+
+[params.meta]
+    favicon = false
