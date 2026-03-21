@@ -1,5 +1,11 @@
 <head>
-  <title>{{ .Site.Title }}</title>
+  <title>
+  {{ if .IsHome }}
+    {{ .Site.Title }}
+  {{ else }}
+    {{ .Title }} | {{ .Site.Title }}
+  {{ end }}
+  </title>
   <meta charset='utf-8'>
   {{- with site.Params.ga_verify }}
   <meta name="google-site-verification" content="{{ . }}" />
