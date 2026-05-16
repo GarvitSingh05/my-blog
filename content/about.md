@@ -4,4 +4,4 @@ date: 2026-03-21
 draft: false
 ---
 
-Write your about page here.
+Coming Soon!
