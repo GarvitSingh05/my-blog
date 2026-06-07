@@ -1,5 +1,5 @@
 +++
-date = '2026-06-07T17:27:30+05:30'
+date = '2026-06-07T11:00:00+05:30'
 draft = false
 title = 'Solving 8th House'
 image = '/images/8th.png'
