@@ -3,7 +3,7 @@ date = '2026-04-05T23:11:47+05:30'
 draft = false
 title = 'System Design'
 image = '/images/System Design - Medium.png'
-weight = 3
+weight = 4
 +++
 
 #### __By Garvit Singh__

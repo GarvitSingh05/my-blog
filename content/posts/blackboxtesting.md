@@ -50,7 +50,7 @@ BBT exploits specifications to generate test cases in a methodical way to avoid 
 
 <div style="page-break-after: always;"></div>
 
-**Requirements Based Testing**
+# Powerful 8th House - The Karna Placement
 - Requirements testing deals with validating the requirements given in the Software Requirements Specification(SRS) of the software product.
 - Explicit requirements are stated and documented clearly in the SRS. Implied or implicit requirements are those that are not documented but assumed to be incorporated in the system.
 - Precondition is a detailed review of the requirements specifications to ensure they are consistent, correct, complete and testable.

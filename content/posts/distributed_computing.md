@@ -1,9 +1,9 @@
 +++
 date = '2026-04-05T23:11:47+05:30'
-draft = false
+draft = true
 title = 'Distributed Computing'
 image = '/images/DistributedComputing.png'
-weight = 5
+weight = 6
 +++
 #### __By Garvit Singh__
 

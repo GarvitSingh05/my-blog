@@ -10,3 +10,8 @@ enableRobotsTXT = true
 
 [params.meta]
     favicon = false
+
+[markup.tableOfContents]
+  startLevel = 1
+  endLevel = 4
+  ordered = false # Set to true for numbered lists
