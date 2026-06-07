@@ -1,6 +1,6 @@
 +++
 date = '2026-04-05T23:11:47+05:30'
-draft = false
+draft = true
 title = 'White Box Testing'
 image = '/images/White Box Testing.png'
 weight = 3

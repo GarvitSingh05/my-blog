@@ -1,9 +1,9 @@
 +++
 date = '2026-04-05T23:11:47+05:30'
-draft = false
+draft = true
 title = 'Linux Commands'
 image = '/images/Linux Hashnode Cover.png'
-weight = 4
+weight = 5
 +++
 #### **By Garvit Singh**
 
