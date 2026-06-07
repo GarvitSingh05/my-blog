@@ -16,13 +16,15 @@ Moon, the karaka of mother gets debilitated in 8th house, so 8th house has negat
 #### 1.2 Powerful 8th House - The Karna Placement
 When a person has powerful planets in the 8th house of their chart, or 8th lord gets powerful, I call it the 'Karna' placement. If we look at the life of Karna from the Mahabharat, it completely resonates with 8th house themes. Karna is an 8th house character depicted perfectly in the Mahabharat. Themes surrounding his entire life give us deep insights into how the 8th house works.
 
-**----------------------------------------------------------------------------------------------------**  
-**----------------------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
   
-Table of Contents  
+#### Table of Contents  
 [1. Introduction](#1-introduction)  
 &emsp;[1.1 Moon's Debilitation in 8th House Correlated with Mother](#11-moons-debilitation-in-8th-house-correlated-with-mother)  
 &emsp;[1.2 Powerful 8th House - The Karna Placement](#12-powerful-8th-house---the-karna-placement)  
+
+
 [2. Karna's Backstory & His Relation With 8th House](#2-karnas-backstory)  
 &emsp;[2.1 Early Life](#21-early-life)  
 &emsp;[2.2 Karma with Mother](#22-karma-with-mother)  
@@ -32,6 +34,8 @@ Table of Contents
 &emsp;[2.6 Supporting The Unrighteous](#26-supporting-the-unrighteous)  
 &emsp;[2.7 Giving Nature - Letting Go of Things](#27-giving-nature---letting-go-of-things)  
 &emsp;[2.8 Respect, Recognition & Fame After Death](#28-respect-recognition--fame-after-death)  
+
+
 [3. 8th House Themes - Derived By Studying Karna's Life](#3-8th-house-themes---derived-by-studying-karnas-life)  
 &emsp;[3.1 Parivartan](#31-parivartan)  
 &emsp;[3.2 Legendary Status](#32-legendary-status)  
@@ -56,6 +60,8 @@ Table of Contents
 &emsp;[3.21 Problems From Rich Entitled Brats](#321-problems-from-rich-entitled-brats)  
 &emsp;[3.22 Never Trust Friends](#322-never-trust-friends)  
 &emsp;[3.23 Problems You Cannot Even Share](#323-problems-you-cannot-even-share)  
+
+
 [4. Other Themes Of 8th House](#4-other-themes-of-8th-house)  
 &emsp;[4.1 Wealth That No One Can Steal From You](#41-wealth-that-no-one-can-steal-from-you)  
 &emsp;[4.2 Self Gained Knowledge](#42-self-gained-knowledge)  
@@ -64,12 +70,14 @@ Table of Contents
 &emsp;[4.5 Maintain Secrecy](#45-maintain-secrecy)  
 &emsp;[4.6 Advise](#46-advise)  
 &emsp;[4.7 Paap Karmas](#47-paap-karmas)  
+
+
 [5. Conclusion](#5-conclusion)  
 
-**----------------------------------------------------------------------------------------------------**  
-**----------------------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
 
-# 2. Karna's Backstory
+## 2. Karna's Backstory
 #### 2.1 Early Life
 If you read the Mahabharat, you will come to know that very early in his life, he was abandoned by his own mother Kunti, who feared that she will not be accepted in traditional society if she happens to have a child before marriage. Karna was the son of Lord Surya, and he had been gifted a special protective armor and a pair of earrings by his father. He was raised by a stepmother and a stepfather who belonged to the caste of charioteers.
 
@@ -117,10 +125,10 @@ Karna was known as 'daanveer' and this quality was used against him by gods like
 Karna from the time he was born, lived a life of suffering, all throughout his life, he wasn't given the due credit, it is only after his death that he was given proper respect. When you have 8th house powerful, people will respect your contributions to society only after you have died. Till the time you are alive they will be ignorant about you, they will not give you your due credit. This also makes you leave a strong legacy for sure, but all the fame and recognition from society comes only after you die. That is the powerful 8th house, the Karna placement.
 
 
-**----------------------------------------------------------------------------------------------------**  
-**----------------------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
 
-# 3. 8th House Themes - Derived By Studying Karna's Life
+## 3. 8th House Themes - Derived By Studying Karna's Life
 Karna's character was a depiction of all the 8th house themes. He wanted to make a change, which is why he was hated by everyone. This is how the 8th house is. The entire life will be a suffering, but in the end there is victory for sure. You will be abandoned, humiliated, you will not be given due credit for your contributions, people will take advantage of you due to your giving nature, you loyalty will be questioned by the very people whom you loved, all this is very painful, but in the end, just like Karna was granted eternal glory by all the gods, this person will be remembered for generations to come, he will be remembered for making a great change.
 
 ---
@@ -308,10 +316,10 @@ There is a war going inside this person's mind. From the outside, it seems like 
 People will think that this person is socially awkward, introverted weirdo who doesn't socialise much, is cold-natured, always seems sad, and some of the evil people around will sense this in you and they will try to be friends with you, they'll try to gain your trust and then will use you for their own benefit. 8th house being powerful, the world in general is hostile towards you, they might even hate you for your out of the box ideas.
 
 
-**----------------------------------------------------------------------------------------------------**  
-**----------------------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
 
-# 4. Other Themes Of 8th House
+## 4. Other Themes Of 8th House
 #### 4.1 Wealth That No One Can Steal From You
 Powerful grahas in 8th house indicates something no one can take away from you. It is that wealth which you have which nobody can take away no matter how hard they try.
 
@@ -354,10 +362,10 @@ The relative associated with the graha sitting in 8th house will usually give yo
 One can commit paap karmas related to the planet sitting in 8th house. For example, Mars would indicate aggression, fighting etc. You have to be conscious enough and avoid doing such bad karmas. 
 
 
-**----------------------------------------------------------------------------------------------------**  
-**----------------------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
+**--------------------------------------------------------------------------------------**  
 
-# 5. Conclusion
+## 5. Conclusion
 Karna was the perfect character for 8th house. For 7th house, the character will be Lord Shani. I will write on his character some other day. In fact, many of the characters depicted in the Mahabharat correlated to some sign, house or nakshatra. For example, Bhisma was a Dhanishta native. Lord Krishna was a Rohini nakshatra native and so on.
   
 One of my life and soul purposes is associated with getting people to give Karna the right credit he deserves for his contributions to society and the world, and this can be seen through my chart.
