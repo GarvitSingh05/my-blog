@@ -1,5 +1,5 @@
 +++
-date = '2026-06-07T11:00:00+05:30'
+date = '2026-06-07T17:21:30+05:30'
 draft = false
 title = 'Solving 8th House'
 image = '/images/8th.png'
@@ -366,7 +366,7 @@ One can commit paap karmas related to the planet sitting in 8th house. For examp
 **--------------------------------------------------------------------------------------**  
 
 ## 5. Conclusion
-Karna was the perfect character for 8th house. For 7th house, the character will be Lord Shani. I will write on his character some other day. In fact, many of the characters depicted in the Mahabharat correlated to some sign, house or nakshatra. For example, Bhisma was a Dhanishta native. Lord Krishna was a Rohini nakshatra native and so on.
+Karna was the perfect character for 8th house. For 7th house, the character will be Lord Shani. I will write on his character some other day. In fact, many of the characters depicted in the Mahabharat are correlated to some sign, house or nakshatra. For example, Bhisma was a Dhanishta native. Lord Krishna was a Rohini nakshatra native and so on.
   
 One of my life and soul purposes is associated with getting people to give Karna the right credit he deserves for his contributions to society and the world, and this can be seen through my chart.
 
