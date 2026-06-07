@@ -2,7 +2,7 @@
 date = '2026-04-05T23:11:47+05:30'
 draft = false
 title = 'Black Box Testing'
-image = '/images/solving_8th_house.png'
+image = '/images/Black Box Testing.png'
 weight = 2
 +++
 
