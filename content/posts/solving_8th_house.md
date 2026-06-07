@@ -24,6 +24,7 @@ When a person has powerful planets in the 8th house of their chart, or 8th lord 
 &emsp;[1.1 Moon's Debilitation in 8th House Correlated with Mother](#11-moons-debilitation-in-8th-house-correlated-with-mother)  
 &emsp;[1.2 Powerful 8th House - The Karna Placement](#12-powerful-8th-house---the-karna-placement)  
 
+---
 
 [2. Karna's Backstory & His Relation With 8th House](#2-karnas-backstory)  
 &emsp;[2.1 Early Life](#21-early-life)  
@@ -35,6 +36,7 @@ When a person has powerful planets in the 8th house of their chart, or 8th lord 
 &emsp;[2.7 Giving Nature - Letting Go of Things](#27-giving-nature---letting-go-of-things)  
 &emsp;[2.8 Respect, Recognition & Fame After Death](#28-respect-recognition--fame-after-death)  
 
+---
 
 [3. 8th House Themes - Derived By Studying Karna's Life](#3-8th-house-themes---derived-by-studying-karnas-life)  
 &emsp;[3.1 Parivartan](#31-parivartan)  
@@ -61,6 +63,7 @@ When a person has powerful planets in the 8th house of their chart, or 8th lord 
 &emsp;[3.22 Never Trust Friends](#322-never-trust-friends)  
 &emsp;[3.23 Problems You Cannot Even Share](#323-problems-you-cannot-even-share)  
 
+---
 
 [4. Other Themes Of 8th House](#4-other-themes-of-8th-house)  
 &emsp;[4.1 Wealth That No One Can Steal From You](#41-wealth-that-no-one-can-steal-from-you)  
@@ -71,6 +74,7 @@ When a person has powerful planets in the 8th house of their chart, or 8th lord 
 &emsp;[4.6 Advise](#46-advise)  
 &emsp;[4.7 Paap Karmas](#47-paap-karmas)  
 
+---
 
 [5. Conclusion](#5-conclusion)  
 
