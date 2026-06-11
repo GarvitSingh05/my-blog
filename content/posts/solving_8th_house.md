@@ -1,6 +1,6 @@
 +++
 date = '2026-06-11T11:00:00+05:30'
-draft = true
+draft = false
 title = 'Solving 8th House'
 image = '/images/8th.png'
 weight = 1
